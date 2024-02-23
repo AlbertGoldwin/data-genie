@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "faker": "^6.6.6",
+    "lodash": "^4.17.21",
+    "validator": "^13.11.0"
+  },
+  "name": "@albertgoldwin/data-genie",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlbertGoldwin/data-genie.git"
+  },
+  "author": "albertgoldwin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlbertGoldwin/data-genie/issues"
+  },
+  "homepage": "https://github.com/AlbertGoldwin/data-genie#readme"
+}
